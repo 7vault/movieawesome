@@ -1,0 +1,17 @@
+.card-container {
+  background-color: rgb(13, 17, 23, 0.7);
+  box-shadow: 0 10px 10px 10px rgb(253, 161, 138, 0.3);
+}
+
+.card-container:hover {
+  background-color: rgb(13, 17, 23, 0.7);
+  box-shadow: 0 10px 10px 10px rgba(238, 53, 7, 0.3);
+}
+
+.txtName {
+  color: rgb(253, 161, 138, 0.3);
+}
+
+.txtEmail {
+  color: rgb(253, 170, 140, 0.6);
+}
